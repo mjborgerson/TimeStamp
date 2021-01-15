@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map for TimeStamp
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+TimeStamp		KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin					KEYWORD2
+SetTimeStamp			KEYWORD2
+GetTimeString			KEYWORD2
+#######################################
+YUVPALEGREEN	LITERAL1
+RGBPALEGREEN	LITERAL1
+RGBBLACK		LITERAL1
+YUVBLACK		LITERAL1
+RGBWHITE		LITERAL1
+YUVWHITE		LITERAL1
+RGBGRAY			LITERAL1
+YUVGRAY			LITERAL1
